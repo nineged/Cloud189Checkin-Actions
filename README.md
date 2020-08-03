@@ -9,7 +9,7 @@
 ```malaohu/Cloud189Checkin-Actions```
 ```peng4740/Cloud189Checkin-Actions```
 
-处理方案：由于Github Action 还不支持删除 Workflows 以及 build结果！只能以下操作！
+处理方案：由于Github Action 还不支持删除 Workflows 以及 build结果！只能以操作！
 
 1）删除你的仓库（仓库 -> Settings -> Delete this repository），然后重新部署自动签到（只有这样才能清理掉build所有记录）！
 
